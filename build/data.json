@@ -1,0 +1,87 @@
+[
+  [
+    {
+      "author": "John Doe",
+      "id": 1,
+      "books": [1, 2, 3],
+      "biography": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolor, ducimus, natus. Ad amet quaerat cumque, ratione maiores totam adipisci quae quibusdam incidunt placeat, minus cum voluptas aliquid perferendis quam at, fugit soluta ipsam, accusamus ipsum consequuntur ipsa perspiciatis repellendus. Quo rem sint provident quas iste dolor praesentium sit, voluptas rerum."
+    },
+    {
+      "author": "Alice Hoffman",
+      "id": 2,
+      "books": [4, 5, 6],
+      "biography": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolor, ducimus, natus. Ad amet quaerat cumque, ratione maiores totam adipisci quae quibusdam incidunt placeat, minus cum voluptas aliquid perferendis quam at, fugit soluta ipsam, accusamus ipsum consequuntur ipsa perspiciatis repellendus. Quo rem sint provident quas iste dolor praesentium sit, voluptas rerum."
+    },
+    {
+      "author": "Fredrik Backman",
+      "id": 3,
+      "books": [7, 8, 9],
+      "biography": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolor, ducimus, natus. Ad amet quaerat cumque, ratione maiores totam adipisci quae quibusdam incidunt placeat, minus cum voluptas aliquid perferendis quam at, fugit soluta ipsam, accusamus ipsum consequuntur ipsa perspiciatis repellendus. Quo rem sint provident quas iste dolor praesentium sit, voluptas rerum."
+    }
+  ],
+  [
+    {
+      "bookName": "The Couple Next Door: A Novel",
+      "id": 1,
+      "authorId": 1,
+      "genre": "horror",
+      "brief": "consectetur adipisicing elit. Dolor, ducimus, natus."
+    },
+    {
+      "bookName": "Norse Mythology",
+      "id": 2,
+      "authorId": 1,
+      "genre": "drama",
+      "brief": "consectetur adipisicing elit. Dolor, ducimus, natus."
+    },
+    {
+      "bookName": "Door",
+      "id": 3,
+      "authorId": 1,
+      "genre": "romance",
+      "brief": "consectetur adipisicing elit. Dolor, ducimus, natus."
+    },
+    {
+      "bookName": "Harry Potter and the Prisoner of Azkaban",
+      "id": 4,
+      "authorId": 2,
+      "genre": "romance",
+      "brief": "consectetur adipisicing elit. Dolor, ducimus, natus."
+    },
+    {
+      "bookName": "Harry Potter: The Deathly Hallows",
+      "id": 5,
+      "authorId": 2,
+      "genre": "romance",
+      "brief": "consectetur adipisicing elit. Dolor, ducimus, natus."
+    },
+    {
+      "bookName": "Harry Potter and the Prisoner of Azkaban",
+      "id": 6,
+      "authorId": 2,
+      "genre": "romance",
+      "brief": "consectetur adipisicing elit. Dolor, ducimus, natus."
+    },
+    {
+      "bookName": "The Sellout: A Novel",
+      "id": 7,
+      "authorId": 3,
+      "genre": "romance",
+      "brief": "consectetur adipisicing elit. Dolor, ducimus, natus."
+    },
+    {
+      "bookName": "Commonwealth",
+      "id": 8,
+      "authorId": 3,
+      "genre": "romance",
+      "brief": "consectetur adipisicing elit. Dolor, ducimus, natus."
+    },
+    {
+      "bookName": "Between the World and Me",
+      "id": 9,
+      "authorId": 3,
+      "genre": "romance",
+      "brief": "consectetur adipisicing elit. Dolor, ducimus, natus."
+    }
+  ]
+]
