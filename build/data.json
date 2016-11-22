@@ -66,14 +66,14 @@
       "bookName": "The Sellout: A Novel",
       "id": 7,
       "authorId": 3,
-      "genre": "romance",
+      "genre": "drama",
       "brief": "consectetur adipisicing elit. Dolor, ducimus, natus."
     },
     {
       "bookName": "Commonwealth",
       "id": 8,
       "authorId": 3,
-      "genre": "romance",
+      "genre": "horro",
       "brief": "consectetur adipisicing elit. Dolor, ducimus, natus."
     },
     {

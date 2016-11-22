@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import { connect } from 'react-redux';
+
 import Author from './author/';
 
 @connect(mapStateToProps)
@@ -10,16 +11,16 @@ export default class AuthorList extends Component {
 
     const authorsListComponent = authors.map(item => {
       return (
-        <Author
-          author={item}
-          books={books}
-          key={item.id}
-        />
+          <Author
+            key={item.id}
+            author={item}
+            books={books}
+          />
       )
     });
 
     return (
-      <div>
+      <div className="authors">
         { authorsListComponent }
       </div>
     );
